@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="qml_my.qml">/home/user/Projects/Qt/mapviewer/qml_my.qml</file>
+</qresource>
+</RCC>

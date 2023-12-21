@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="qml_my.qml">../qml_my.qml</file>
+    </qresource>
+</RCC>
